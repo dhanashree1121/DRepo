@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25799" started-at="2021-01-17T12:11:52Z" finished-at="2021-01-17T12:12:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25799" started-at="2021-01-17T12:11:52Z" finished-at="2021-01-17T12:12:18Z">
+      <class name="com.glb.us.login.MyTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="setup" is-config="true" duration-ms="5248" started-at="2021-01-17T17:41:52Z" finished-at="2021-01-17T17:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchsite()[pri:10, instance:com.glb.us.login.MyTest@1a968a59]" name="launchsite" duration-ms="1694" started-at="2021-01-17T17:41:57Z" finished-at="2021-01-17T17:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchsite -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="m1" is-config="true" duration-ms="0" started-at="2021-01-17T17:41:57Z" finished-at="2021-01-17T17:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="titlecatch" is-config="true" duration-ms="59" started-at="2021-01-17T17:41:59Z" finished-at="2021-01-17T17:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="m1" is-config="true" duration-ms="1" started-at="2021-01-17T17:41:59Z" finished-at="2021-01-17T17:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="Search()[pri:11, instance:com.glb.us.login.MyTest@1a968a59]" name="Search" duration-ms="7598" started-at="2021-01-17T17:41:59Z" finished-at="2021-01-17T17:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="titlecatch" is-config="true" duration-ms="17" started-at="2021-01-17T17:42:07Z" finished-at="2021-01-17T17:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="m1" is-config="true" duration-ms="0" started-at="2021-01-17T17:42:07Z" finished-at="2021-01-17T17:42:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="addcart()[pri:12, instance:com.glb.us.login.MyTest@1a968a59]" name="addcart" duration-ms="4212" started-at="2021-01-17T17:42:07Z" finished-at="2021-01-17T17:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="titlecatch" is-config="true" duration-ms="8" started-at="2021-01-17T17:42:11Z" finished-at="2021-01-17T17:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="m1" is-config="true" duration-ms="0" started-at="2021-01-17T17:42:11Z" finished-at="2021-01-17T17:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="login()[pri:13, instance:com.glb.us.login.MyTest@1a968a59]" name="login" duration-ms="2234" started-at="2021-01-17T17:42:11Z" finished-at="2021-01-17T17:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.glb.us.login.MyTest@1a968a59]" name="titlecatch" is-config="true" duration-ms="4700" started-at="2021-01-17T17:42:13Z" finished-at="2021-01-17T17:42:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+      </class> <!-- com.glb.us.login.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
